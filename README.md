@@ -1,6 +1,6 @@
 ## linux-sdn-network-monitor
 
-Implementation of a Linux-Based Software-Defined Network Monitoring and Flow Configuration Tool Using Python and REST APIs.
+Implementation of a Linux-Based Software-Defined Network Monitoring and Flow Configuration Tool Using Python and REST APIs
 
 The project provides a Python command-line application for monitoring network topology, OpenFlow devices, hosts, links, and flow statistics through an ONOS-style REST API.
 
