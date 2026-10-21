@@ -1,0 +1,8 @@
+# HTTP client for ONOS REST API
+requests>=2.32,<3
+
+# Local REST API simulator
+Flask>=3.1,<4
+
+# Automated unit tests
+pytest>=9,<10
