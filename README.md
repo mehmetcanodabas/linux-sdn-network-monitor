@@ -23,7 +23,7 @@ The application was developed and tested in an Ubuntu 24.04 (WSL2) environment.
 
 [Flow Configuration](docs/results/flow%20configuration.png): Configured forwarding rule retrieved through the REST API, demonstrating destination IP matching and switch output port selection.
 
-**Keywords:** Linux, Software-Defined Networking (SDN), ONOS REST API, OpenFlow, Network Monitoring, Flow Configuration, HTTP GET/POST, JSON, Flask, pytest, Python.
+**Keywords:** Python, Flask, Flow Configuration, HTTP GET/POST, JSON, Linux, Network Monitoring, ONOS REST API, OpenFlow, pytest, Software-Defined Networking (SDN).
 
 **Development Environment:** Ubuntu 24.04 (WSL2).
 
